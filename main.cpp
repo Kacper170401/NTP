@@ -4,7 +4,7 @@
 #include <iostream>
 #include "PrintInt.h"
 
-void add(int a, int b){
+int add(int a, int b){
     return a + b;
 }
 
